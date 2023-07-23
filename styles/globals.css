@@ -29,6 +29,7 @@ a {
 	from {
 		transform: translateY(440px);
 	}
+
 	to {
 		transform: translateY(0);
 	}
