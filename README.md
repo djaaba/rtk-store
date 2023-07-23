@@ -6,7 +6,7 @@
 
 </p>
 
-👉 Live Demo: <a href=''>Store Demo</a>
+👉 Live Demo: <a href='https://store-rho-rose.vercel.app/'>Store Demo</a>
 
 <h3>Использовались:</h3>
 
