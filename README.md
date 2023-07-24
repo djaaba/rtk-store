@@ -14,7 +14,6 @@
 » Typescript <br>
 » Redux Toolkit <br>
 » Fakestoreapi <br>
-» Tailwind <br>
 
 <br>
 
@@ -39,5 +38,4 @@ Builds the app for production to the `build` folder.\
 
 -   [reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit)
 -   [react-icons](https://github.com/react-icons/react-icons)
--   [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 -   [autoprefixer](https://github.com/postcss/autoprefixer)
