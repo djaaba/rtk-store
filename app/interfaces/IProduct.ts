@@ -1,3 +1,5 @@
+import { IRating } from "./IRating"
+
 export interface IProduct {
 	id: number
 	title: string
